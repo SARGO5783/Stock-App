@@ -1,0 +1,22 @@
+Nov 01, 2023 5:55:33 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Database driver loaded: uml
+Nov 01, 2023 5:55:33 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Getting database connection: uml
+Nov 01, 2023 5:55:33 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Database driver loaded: uml
+Nov 01, 2023 5:55:33 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Getting database connection: uml
+Nov 01, 2023 5:55:33 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Database driver loaded: uml
+Nov 01, 2023 5:55:33 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Getting database connection: uml
+Nov 01, 2023 5:55:33 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Database driver loaded: uml
+Nov 01, 2023 5:55:33 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Getting database connection: uml
+Nov 01, 2023 5:56:26 PM controllers.inputformcontrollers.InputInvestorFormController saveData
+INFO: Creating investor with the following values: Name:tom carroll, ID:7676
+Nov 01, 2023 5:56:30 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Database driver loaded: uml
+Nov 01, 2023 5:56:30 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Getting database connection: uml

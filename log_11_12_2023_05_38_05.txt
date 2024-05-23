@@ -1,0 +1,30 @@
+Nov 12, 2023 5:38:17 PM controllers.inputformcontrollers.InputStockQuoteFormController saveData
+INFO: Creating stock quote with the following values: Ticker Symbol:32, Price:11.0
+Nov 12, 2023 5:38:35 PM controllers.inputformcontrollers.InputStockQuoteFormController saveData
+INFO: Creating stock quote with the following values: Ticker Symbol:3445, Price:1000.0
+Nov 12, 2023 5:39:00 PM controllers.inputformcontrollers.InputInvestorFormController saveData
+INFO: Creating investor with the following values: Name:sHOS, ID:121212
+Nov 12, 2023 5:39:16 PM controllers.inputformcontrollers.InputInvestorFormController saveData
+INFO: Creating investor with the following values: Name:HAST, ID:33333
+Nov 12, 2023 5:39:44 PM controllers.inputformcontrollers.InputBrokerFormController saveData
+INFO: Creating Broker with the following values:Name: fISHY,Address: 100 Sanzo,Id: 99999, Date of Birth: 1/2/2004, Date of Hire: 5/7/2021, Date of Termination: 11/12/2023,Salary:2000.0,Status:Full Time,List Of Clients:[Invester:
+---------
+HAST
+222 CLAK
+Date of Birth : 4/4/2002
+Id : 33333
+Portfolio Value : 100000.0
+]
+Nov 12, 2023 5:40:08 PM controllers.inputformcontrollers.InputBrokerFormController saveData
+INFO: Creating Broker with the following values:Name: Tommy,Address: 100 Blank,Id: 83838, Date of Birth: 1/15/2004, Date of Hire: 5/7/2022, Date of Termination: 11/12/2023,Salary:500.0,Status:Part Time,List Of Clients:[Invester:
+---------
+sHOS
+121 CLAK
+Date of Birth : 11/12/2023
+Id : 121212
+Portfolio Value : 1100.0
+]
+Nov 12, 2023 5:40:12 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Database driver loaded: uml
+Nov 12, 2023 5:40:12 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Problem getting database connection to um2l: GSS-API authentication exception

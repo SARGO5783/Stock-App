@@ -1,0 +1,6 @@
+Nov 12, 2023 5:43:21 PM controllers.inputformcontrollers.InputStockQuoteFormController saveData
+INFO: Creating stock quote with the following values: Ticker Symbol:45, Price:11.0
+Nov 12, 2023 5:43:25 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Database driver loaded: uml
+Nov 12, 2023 5:43:25 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Problem getting database connection to um2l: GSS-API authentication exception

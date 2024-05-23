@@ -1,0 +1,8 @@
+Nov 02, 2023 7:38:29 AM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Database driver loaded: uml
+Nov 02, 2023 7:38:30 AM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Problem getting database connection to um2l: (conn=3) Unknown database 'uml'
+Nov 02, 2023 7:39:23 AM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Database driver loaded: uml
+Nov 02, 2023 7:39:23 AM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Getting database connection: uml

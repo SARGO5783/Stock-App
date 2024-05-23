@@ -1,0 +1,16 @@
+Oct 29, 2023 10:56:42 AM controllers.inputformcontrollers.InputStockQuoteFormController saveData
+INFO: Creating stock quote with the following values: Ticker Symbol:aapl, Price:233.0
+Oct 29, 2023 10:56:49 AM controllers.inputformcontrollers.InputStockQuoteFormController saveData
+INFO: Creating stock quote with the following values: Ticker Symbol:ibm, Price:167.0
+Oct 29, 2023 10:57:26 AM controllers.inputformcontrollers.InputInvestorFormController saveData
+INFO: Creating investor with the following values: Name:ed smith, ID:12345
+Oct 29, 2023 10:57:38 AM controllers.inputformcontrollers.InputInvestorFormController saveData
+INFO: Creating investor with the following values: Name:ty reed, ID:78901
+Oct 29, 2023 10:57:44 AM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Database driver loaded: uml
+Oct 29, 2023 10:57:44 AM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Getting database connection: uml
+Oct 29, 2023 10:57:44 AM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Database driver loaded: uml
+Oct 29, 2023 10:57:44 AM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Getting database connection: uml

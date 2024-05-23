@@ -1,0 +1,30 @@
+Nov 01, 2023 7:19:39 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Database driver loaded: uml
+Nov 01, 2023 7:19:39 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Getting database connection: uml
+Nov 01, 2023 7:19:39 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Database driver loaded: uml
+Nov 01, 2023 7:19:39 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Getting database connection: uml
+Nov 01, 2023 7:19:39 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Database driver loaded: uml
+Nov 01, 2023 7:19:39 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Getting database connection: uml
+Nov 01, 2023 7:19:39 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Database driver loaded: uml
+Nov 01, 2023 7:19:39 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Getting database connection: uml
+Nov 01, 2023 7:19:39 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Database driver loaded: uml
+Nov 01, 2023 7:19:39 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Getting database connection: uml
+Nov 01, 2023 7:19:51 PM controllers.inputformcontrollers.InputStockQuoteFormController saveData
+INFO: Creating stock quote with the following values: Ticker Symbol:qwde, Price:122.0
+Nov 01, 2023 7:20:01 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Database driver loaded: uml
+Nov 01, 2023 7:20:01 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Getting database connection: uml
+Nov 01, 2023 7:20:01 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Database driver loaded: uml
+Nov 01, 2023 7:20:01 PM utilities.db.DatabaseUtilities openDatabaseConnection
+INFO: Getting database connection: uml
